@@ -1,0 +1,290 @@
+[
+  {
+    "id": "faq-adm-01",
+    "question": "When does the admission process start and what is the last date to apply?",
+    "answer": "[DEMONSTRATION DATA] Admissions for the academic year 2026-27 at Demo University open on May 1st and close on June 30th. Late applications are accepted with a late fee until July 15th.",
+    "category": "Admissions",
+    "keywords": ["admission", "apply", "deadline", "last date", "start date", "dates", "schedule"],
+    "source": "Demo University Academic Calendar 2026-27, Sec 1.1",
+    "last_updated": "2026-04-15"
+  },
+  {
+    "id": "faq-adm-02",
+    "question": "How can I apply for undergraduate admissions online?",
+    "answer": "[DEMONSTRATION DATA] Prospective students must register on the Demo University Admissions Portal (admissions.demouniv.edu), complete the online form, upload required certificates, and pay an application fee of $50.",
+    "category": "Admissions",
+    "keywords": ["apply", "online portal", "registration", "application form", "undergraduate", "ug"],
+    "source": "Demo University Admissions Handbook, Sec 2.1",
+    "last_updated": "2026-04-15"
+  },
+  {
+    "id": "faq-adm-03",
+    "question": "Is there an entrance exam for admission to Demo University?",
+    "answer": "[DEMONSTRATION DATA] Yes, Demo University conducts the Demo University Common Entrance Test (DUCET) for all B.Tech and MBA programs. Direct admission is available for candidates with top 5% percentiles in national examinations.",
+    "category": "Admissions",
+    "keywords": ["entrance exam", "ducet", "test", "direct admission", "btech", "mba"],
+    "source": "DUCET Information Bulletin 2026, Page 4",
+    "last_updated": "2026-04-10"
+  },
+  {
+    "id": "faq-crs-01",
+    "question": "What undergraduate engineering courses are offered?",
+    "answer": "[DEMONSTRATION DATA] Demo University offers four-year B.Tech programs in Computer Science & Engineering, Artificial Intelligence & Data Science, Electronics & Communication Engineering, and Mechanical Engineering.",
+    "category": "Courses",
+    "keywords": ["courses", "engineering", "btech", "computer science", "ai", "data science", "ece", "mechanical"],
+    "source": "Faculty of Engineering Curriculum Guide 2026",
+    "last_updated": "2026-04-01"
+  },
+  {
+    "id": "faq-crs-02",
+    "question": "Are postgraduate and doctoral degree programs available?",
+    "answer": "[DEMONSTRATION DATA] Yes, Demo University provides M.Tech, MBA, M.Sc in Data Science, and Ph.D. research fellowships across Engineering, Sciences, and Management disciplines.",
+    "category": "Courses",
+    "keywords": ["postgraduate", "pg", "mtech", "mba", "msc", "phd", "doctoral", "research"],
+    "source": "School of Postgraduate Studies Bulletin 2026",
+    "last_updated": "2026-04-01"
+  },
+  {
+    "id": "faq-crs-03",
+    "question": "Can undergraduate students choose interdisciplinary minors?",
+    "answer": "[DEMONSTRATION DATA] Yes, undergraduate students can take minors in disciplines such as Computational Finance, Cybersecurity, Environmental Studies, and Product Design starting from their 3rd semester.",
+    "category": "Courses",
+    "keywords": ["minor", "interdisciplinary", "specialization", "cybersecurity", "finance"],
+    "source": "Academic Regulations Manual, Section 4.5",
+    "last_updated": "2026-03-20"
+  },
+  {
+    "id": "faq-elg-01",
+    "question": "What are the eligibility criteria for B.Tech Computer Science?",
+    "answer": "[DEMONSTRATION DATA] Applicants must have completed 10+2 or equivalent with Physics, Mathematics, and Chemistry/Computer Science, securing a minimum aggregate of 60% (55% for reserved categories).",
+    "category": "Eligibility",
+    "keywords": ["eligibility", "criteria", "percentage", "requirements", "10+2", "btech cs", "marks"],
+    "source": "Admissions Eligibility Criteria 2026, Section 2",
+    "last_updated": "2026-04-01"
+  },
+  {
+    "id": "faq-elg-02",
+    "question": "What are the eligibility requirements for the MBA program?",
+    "answer": "[DEMONSTRATION DATA] Candidates must hold a recognized Bachelor's degree in any discipline with at least 50% aggregate marks and a valid score in DUCET-Management or national CAT/GMAT exams.",
+    "category": "Eligibility",
+    "keywords": ["mba eligibility", "bachelor degree", "percentage", "cat", "gmat", "marks"],
+    "source": "School of Management Admissions Manual, Sec 1.2",
+    "last_updated": "2026-03-15"
+  },
+  {
+    "id": "faq-elg-03",
+    "question": "Are international students eligible to apply?",
+    "answer": "[DEMONSTRATION DATA] International applicants are eligible provided they have equivalent qualification credentials evaluated by the Association of Indian Universities (AIU) and valid English proficiency scores (TOEFL/IELTS).",
+    "category": "Eligibility",
+    "keywords": ["international students", "foreign students", "toefl", "ielts", "aiu equivalence"],
+    "source": "International Affairs Directorate, Doc ID IAD-2026",
+    "last_updated": "2026-02-28"
+  },
+  {
+    "id": "faq-fee-01",
+    "question": "What is the annual tuition fee for B.Tech programs?",
+    "answer": "[DEMONSTRATION DATA] The annual tuition fee for B.Tech programs is $4,000 (INR 3,20,000) payable in two equal semester installments. A one-time refundable security deposit of $300 is charged at admission.",
+    "category": "Fees",
+    "keywords": ["tuition fee", "fees", "cost", "annual fee", "charges", "semester fee", "btech fee"],
+    "source": "Finance Office Fee Schedule 2026-27, Page 2",
+    "last_updated": "2026-04-10"
+  },
+  {
+    "id": "faq-fee-02",
+    "question": "What is the fee structure for MBA programs?",
+    "answer": "[DEMONSTRATION DATA] The total program fee for the two-year MBA is $9,500 (INR 7,60,000), which includes tuition, course material, access to business simulation labs, and industry immersions.",
+    "category": "Fees",
+    "keywords": ["mba fee", "mba cost", "tuition", "program fee", "installments"],
+    "source": "Finance Office Fee Schedule 2026-27, Page 3",
+    "last_updated": "2026-04-10"
+  },
+  {
+    "id": "faq-fee-03",
+    "question": "What is the refund policy if a student withdraws admission?",
+    "answer": "[DEMONSTRATION DATA] 100% of fees minus $20 processing charge is refunded if withdrawn 15 days before classes commence; 80% if within 15 days before; 50% within 15 days after classes start; zero refund after 30 days.",
+    "category": "Fees",
+    "keywords": ["refund policy", "withdraw admission", "cancellation", "fee refund", "money back"],
+    "source": "Demo University Refund Guidelines, UGC Aligned 2026",
+    "last_updated": "2026-03-01"
+  },
+  {
+    "id": "faq-sch-01",
+    "question": "Does Demo University offer merit-based scholarships?",
+    "answer": "[DEMONSTRATION DATA] Yes, the Chancellor's Merit Scholarship awards up to 100% tuition waiver to students ranking in the top 1% of DUCET, and 50% tuition waiver for students scoring above 90% in 10+2 examinations.",
+    "category": "Scholarships",
+    "keywords": ["scholarship", "merit scholarship", "fee waiver", "financial aid", "chancellor scholarship"],
+    "source": "Scholarship Office Guidelines 2026, Policy SCH-01",
+    "last_updated": "2026-04-05"
+  },
+  {
+    "id": "faq-sch-02",
+    "question": "Are there need-based or sports scholarships available?",
+    "answer": "[DEMONSTRATION DATA] Yes, Demo University offers the Need-cum-Means Grant covering up to 40% tuition for families with annual income under $8,000, and Sports Excellence Fellowships for national medalists.",
+    "category": "Scholarships",
+    "keywords": ["need based", "sports scholarship", "financial assistance", "concession", "grant"],
+    "source": "Scholarship Office Guidelines 2026, Policy SCH-02",
+    "last_updated": "2026-04-05"
+  },
+  {
+    "id": "faq-hos-01",
+    "question": "What hostel facilities and room types are available on campus?",
+    "answer": "[DEMONSTRATION DATA] Demo University provides separate air-conditioned and non-AC hostels for boys and girls with single, double, and triple-occupancy rooms. All hostels include 24/7 Wi-Fi, laundry, and dining halls.",
+    "category": "Hostel",
+    "keywords": ["hostel", "accommodation", "rooms", "dormitory", "single room", "ac room", "residence"],
+    "source": "Campus Residential Life Handbook 2026, Chapter 2",
+    "last_updated": "2026-03-10"
+  },
+  {
+    "id": "faq-hos-02",
+    "question": "What is the annual hostel and mess fee?",
+    "answer": "[DEMONSTRATION DATA] The annual hostel fee ranges from $1,200 (triple non-AC) to $2,200 (single AC) per year. The mess charge is $900 annually, covering breakfast, lunch, evening snacks, and dinner.",
+    "category": "Hostel",
+    "keywords": ["hostel fee", "mess fee", "food charges", "hostel rent", "dining charges"],
+    "source": "Finance & Hostel Board Tariff 2026-27",
+    "last_updated": "2026-03-10"
+  },
+  {
+    "id": "faq-hos-03",
+    "question": "What are the hostel curfew timings and leave rules?",
+    "answer": "[DEMONSTRATION DATA] Campus curfew is 9:30 PM for all resident students. Overnight leave requires prior digital approval from parents and the hostel warden via the Campus Life App.",
+    "category": "Hostel",
+    "keywords": ["curfew", "hostel timing", "in time", "leave pass", "night out", "warden"],
+    "source": "Campus Residential Life Handbook 2026, Chapter 5",
+    "last_updated": "2026-03-10"
+  },
+  {
+    "id": "faq-lib-01",
+    "question": "What are the central library working hours and digital resources?",
+    "answer": "[DEMONSTRATION DATA] The Central Library is open from 8:00 AM to 10:00 PM on weekdays, and 9:00 AM to 5:00 PM on weekends. During semester exams, reading halls operate 24/7 with access to IEEE, ACM, and Springer journals.",
+    "category": "Library",
+    "keywords": ["library hours", "timings", "digital library", "ieee", "journals", "reading room"],
+    "source": "Central Library Manual 2026, Section 1",
+    "last_updated": "2026-02-15"
+  },
+  {
+    "id": "faq-lib-02",
+    "question": "How many books can a student borrow and for what duration?",
+    "answer": "[DEMONSTRATION DATA] Undergraduate students can borrow up to 4 books for 14 days, while postgraduate and research scholars can borrow up to 8 books for 30 days. Renewals are done via the web OPAC.",
+    "category": "Library",
+    "keywords": ["borrow books", "book issue", "renewal", "library card", "book limit"],
+    "source": "Central Library Circulation Rules 2026, Sec 3",
+    "last_updated": "2026-02-15"
+  },
+  {
+    "id": "faq-exm-01",
+    "question": "What is the mandatory attendance requirement to appear for examinations?",
+    "answer": "[DEMONSTRATION DATA] A minimum of 75% attendance in each registered course is mandatory to be eligible for end-semester examinations. Medical condonation up to 10% is permitted with Dean approval.",
+    "category": "Examinations",
+    "keywords": ["attendance", "75 percent", "exam eligibility", "condonation", "shortage"],
+    "source": "Academic Regulations Handbook 2026, Regulation 7.2",
+    "last_updated": "2026-01-20"
+  },
+  {
+    "id": "faq-exm-02",
+    "question": "What is the grading system and CGPA calculation method?",
+    "answer": "[DEMONSTRATION DATA] Demo University follows a 10-point relative grading scale: O (10), A+ (9), A (8), B+ (7), B (6), C (5), and F (Fail, 0). CGPA is computed as the credit-weighted average of grade points.",
+    "category": "Examinations",
+    "keywords": ["grading system", "cgpa", "sgpa", "gpa scale", "fail marks", "grades"],
+    "source": "Controller of Examinations Directive COE-2026/04",
+    "last_updated": "2026-01-20"
+  },
+  {
+    "id": "faq-exm-03",
+    "question": "What are the rules and process for supplementary or re-evaluation exams?",
+    "answer": "[DEMONSTRATION DATA] Students receiving an 'F' grade can appear for supplementary examinations held in July and January. Re-evaluation requests must be submitted within 10 days of results declaration for a fee of $15 per paper.",
+    "category": "Examinations",
+    "keywords": ["supplementary exam", "re-evaluation", "rechecking", "backlog", "arrears"],
+    "source": "Controller of Examinations Directive COE-2026/05",
+    "last_updated": "2026-01-20"
+  },
+  {
+    "id": "faq-trn-01",
+    "question": "Does the university provide bus transportation services for day scholars?",
+    "answer": "[DEMONSTRATION DATA] Yes, Demo University operates a fleet of 25 GPS-tracked air-conditioned buses covering all major metropolitan routes within a 45-kilometer radius of the campus.",
+    "category": "Transportation",
+    "keywords": ["transport", "bus service", "day scholar", "bus routes", "commute", "shuttle"],
+    "source": "Transport Department Services Notice 2026",
+    "last_updated": "2026-03-25"
+  },
+  {
+    "id": "faq-trn-02",
+    "question": "What is the transport fee and how are bus passes issued?",
+    "answer": "[DEMONSTRATION DATA] Transport fees range between $350 and $600 per academic year depending on distance zones. Digital bus passes with RFID smart cards are issued through the student portal.",
+    "category": "Transportation",
+    "keywords": ["bus fee", "transport charges", "bus pass", "rfid pass", "bus cost"],
+    "source": "Transport Department Services Notice 2026, Schedule B",
+    "last_updated": "2026-03-25"
+  },
+  {
+    "id": "faq-doc-01",
+    "question": "What original documents are required during physical verification at admission?",
+    "answer": "[DEMONSTRATION DATA] Required documents: 10th and 12th original marksheets and passing certificates, transfer certificate (TC), migration certificate, category certificate (if applicable), 6 passport-size photographs, and government ID proof.",
+    "category": "Documents",
+    "keywords": ["documents required", "verification", "original certificates", "tc", "migration certificate", "photos"],
+    "source": "Registrar Office Checklist DOC-2026-A",
+    "last_updated": "2026-04-12"
+  },
+  {
+    "id": "faq-doc-02",
+    "question": "How can alumni or graduating students request an official transcript or degree certificate?",
+    "answer": "[DEMONSTRATION DATA] Official transcripts and provisional certificates can be requested through the Student Services Portal (records.demouniv.edu). Standard dispatch takes 7-10 working days, with international courier options.",
+    "category": "Documents",
+    "keywords": ["transcript", "degree certificate", "provisional certificate", "alumni records", "marksheet duplicate"],
+    "source": "Registrar Office Guidelines DOC-2026-B",
+    "last_updated": "2026-04-12"
+  },
+  {
+    "id": "faq-doc-03",
+    "question": "What is the procedure for obtaining a bona fide or character certificate?",
+    "answer": "[DEMONSTRATION DATA] Students can download an automated digitally signed bona fide certificate directly from their student dashboard within 24 hours of application, without physical signatures.",
+    "category": "Documents",
+    "keywords": ["bona fide", "bonafide certificate", "character certificate", "study certificate"],
+    "source": "Registrar Office Guidelines DOC-2026-C",
+    "last_updated": "2026-04-12"
+  },
+  {
+    "id": "faq-cnt-01",
+    "question": "What are the contact details and working hours of the Admissions Helpdesk?",
+    "answer": "[DEMONSTRATION DATA] Admissions Helpdesk: Phone: +1 (555) 019-2830, Email: admissions@demouniv.edu. Location: Welcome Centre, Ground Floor, Admin Block. Hours: Monday-Friday, 9:00 AM - 5:00 PM.",
+    "category": "Contact",
+    "keywords": ["contact", "admissions phone", "email", "helpline", "helpdesk", "office address", "phone number"],
+    "source": "Demo University Directory 2026",
+    "last_updated": "2026-04-20"
+  },
+  {
+    "id": "faq-cnt-02",
+    "question": "Who can I contact in case of an on-campus medical emergency?",
+    "answer": "[DEMONSTRATION DATA] Campus Health Centre Emergency Line: +1 (555) 019-9999 (24/7). Ambulances and doctors are stationed around the clock near the Student Activity Centre.",
+    "category": "Contact",
+    "keywords": ["emergency", "medical", "hospital", "health centre", "ambulance", "doctor"],
+    "source": "Campus Health and Safety Protocol 2026",
+    "last_updated": "2026-04-20"
+  },
+  {
+    "id": "faq-cnt-03",
+    "question": "What is the official address and location of Demo University?",
+    "answer": "[DEMONSTRATION DATA] Demo University Main Campus, 100 Innovation Boulevard, Tech Valley, CA 94016. The campus is located 12 kilometers from Central Metro Station.",
+    "category": "Contact",
+    "keywords": ["address", "campus location", "where is college", "metro station", "directions"],
+    "source": "Demo University Directory 2026",
+    "last_updated": "2026-04-20"
+  },
+  {
+    "id": "faq-adm-04",
+    "question": "Can I get a campus tour before deciding on admission?",
+    "answer": "[DEMONSTRATION DATA] Yes, Demo University conducts guided campus tours every Saturday at 10:00 AM and 2:00 PM. Prospective students can reserve their slots through the Admissions Portal.",
+    "category": "Admissions",
+    "keywords": ["campus tour", "visit campus", "open day", "orientation"],
+    "source": "Admissions Office Outreach 2026",
+    "last_updated": "2026-04-15"
+  },
+  {
+    "id": "faq-crs-04",
+    "question": "Does Demo University offer internship and placement assistance?",
+    "answer": "[DEMONSTRATION DATA] The Centre for Corporate Relations facilitates mandatory summer internships and campus placements. In 2025-26, over 200 companies visited with an average package of $14,000 (INR 11.2 LPA).",
+    "category": "Courses",
+    "keywords": ["placement", "internship", "jobs", "companies", "packages", "corporate relations"],
+    "source": "Placement Annual Report 2025-26",
+    "last_updated": "2026-03-30"
+  }
+]

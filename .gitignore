@@ -1,0 +1,34 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables & secrets (Never commit live API keys!)
+backend/.env
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Temporary scratch & build artifacts
+scratch/
