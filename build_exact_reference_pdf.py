@@ -175,11 +175,10 @@ def build_pdf():
 
     story.append(Paragraph("Submitted by", ParagraphStyle('SubBy', fontName='Times-Bold', fontSize=9.0, alignment=1)))
     story.append(Spacer(1, 5))
-    story.append(Paragraph("Aanchal Singh &nbsp;|&nbsp; University Registration No.: 12526206 &nbsp;|&nbsp; Roll No.: 65", ParagraphStyle('S1', fontName='Times-Roman', fontSize=9.0, alignment=1)))
-    story.append(Paragraph("Uday Shankar Praneet &nbsp;|&nbsp; University Registration No.: 12526408 &nbsp;|&nbsp; Roll No.: 66", ParagraphStyle('S2', fontName='Times-Bold', fontSize=9.0, alignment=1)))
-    story.append(Paragraph("Tanish Dadual &nbsp;|&nbsp; University Registration No.: 12526905 &nbsp;|&nbsp; Roll No.: 67", ParagraphStyle('S3', fontName='Times-Roman', fontSize=9.0, alignment=1)))
-    story.append(Paragraph("Bhavya &nbsp;|&nbsp; University Registration No.: 12526854 &nbsp;|&nbsp; Roll No.: 68", ParagraphStyle('S4', fontName='Times-Roman', fontSize=9.0, alignment=1)))
-    story.append(Spacer(1, 35))
+    story.append(Paragraph("Lakshay Parashar &nbsp;|&nbsp; University Registration No.: 12523688 &nbsp;|&nbsp; Roll No.: 40", ParagraphStyle('S1', fontName='Times-Roman', fontSize=9.0, alignment=1)))
+    story.append(Paragraph("Rishabh Pandey &nbsp;|&nbsp; University Registration No.: 12523544 &nbsp;|&nbsp; Roll No.: 41", ParagraphStyle('S2', fontName='Times-Roman', fontSize=9.0, alignment=1)))
+    story.append(Paragraph("Uday Shankar Praneet &nbsp;|&nbsp; University Registration No.: 12524685 &nbsp;|&nbsp; Roll No.: 42", ParagraphStyle('S3', fontName='Times-Roman', fontSize=9.0, alignment=1)))
+    story.append(Spacer(1, 40))
 
     story.append(Paragraph("Under the guidance of", ParagraphStyle('UnderG', fontName='Times-Bold', fontSize=9.0, alignment=1)))
     story.append(Spacer(1, 3))

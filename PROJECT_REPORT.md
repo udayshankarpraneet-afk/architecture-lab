@@ -13,7 +13,9 @@ Submitted in partial fulfilment of the requirements for the degree of
 * **Subject Code:** CSE276  
 
 **Submitted by:**  
-**Uday Shankar Praneet** | University Registration No.: 12526408 | Roll No.: 66  
+* **Lakshay Parashar** | University Registration No.: 12523688 | Roll No.: 40  
+* **Rishabh Pandey** | University Registration No.: 12523544 | Roll No.: 41  
+* **Uday Shankar Praneet** | University Registration No.: 12524685 | Roll No.: 42  
 
 **Under the guidance of:**  
 Department Faculty / Project Supervisor  
